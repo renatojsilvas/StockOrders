@@ -14,7 +14,7 @@ Simular a execução de ordens semelhantes à bolsa de valores em um aplicativo 
 - Fluent Assertions
 
 # Testes
-Foram realizados testes unitários utilizando o framework Xunit. A cobertura dos testes foi superior a 95%. Para mais detalhes baixar o relatório completo no Release da versão V1.0 ([CoberturaDeTestes.html](https://github.com/renatojsilvas/StockOrders/releases/download/V1.0/CoberturaDeTestes.html)
+Foram realizados testes unitários utilizando o framework Xunit. A cobertura dos testes foi superior a 95%. Para mais detalhes baixar o relatório completo no Release da versão V1.0 ([CoberturaDeTestes.html](https://github.com/renatojsilvas/StockOrders/releases/download/V1.0/CoberturaDeTestes.html))
 
 ![alt text](https://github.com/renatojsilvas/StockOrders/blob/main/reports/Cobertura.png)
 
